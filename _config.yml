@@ -1,0 +1,28 @@
+name: YWAM Tyler
+favicon: null
+layout_spectrum: 0.02622867957688868
+typography_spectrum: 0.8362592626363039
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7377648821566254
+  lightness: 0.08706420729868114
+  saturation: 0.7395777245983481
+  rhythmicContrast: 0.34462934103794396
+purpose: []
