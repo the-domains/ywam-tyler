@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[YWAM Tyler]]></title>
         <description><![CDATA[YWAM Tyler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ywam-tyler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 01:55:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 01:58:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ywam-tyler/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5565a2f7-b14d-4a31-aed1-9506166bd533.jpg">]]></description>
-            <link>undefined19205075-709b-4a04-ad1d-2ad253ef9473/index.html</link>
+            <link>https://thegrid.ai/ywam-tyler/19205075-709b-4a04-ad1d-2ad253ef9473/index.html</link>
             <guid isPermaLink="false">19205075-709b-4a04-ad1d-2ad253ef9473</guid>
-            <pubDate>Fri, 22 Jul 2016 01:55:57 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2016 01:58:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
